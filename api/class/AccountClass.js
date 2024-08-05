@@ -3,7 +3,7 @@
 //Obtener cuentas
 //Agregar balance
 //Restar balance  
-//Crear cueta  
+//Crear cuenta  
 import AccountModel from "../models/AccountModel.js"
 class ManagerAccount{
     constructor(

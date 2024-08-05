@@ -68,3 +68,5 @@ class ManagerAccount {
         }
     }
 }
+
+export default ManagerAccount;

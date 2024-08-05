@@ -121,9 +121,5 @@ class ManagerUser{
 
         }
     }
-
-    
 }
-
-export default ManagerUser;
 //Metodos estaticos de tarea
